@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PraogramToAdd</string>
+    <string name="First"></string>
+    <string name="Second"></string>
+    <string name="Click_To_Add">Click To Add</string>
+    <string name="result"></string>
+    <string name="Click_To_Divide">Click To Divide</string>
+    <string name="Click_To_Multiply">Click To Multiply</string>
+    <string name="Click_To_Substract">Click To Substract</string>
+    <string name="____Welcome_To_Main_Menu">Welcome To Main Menu</string>
+</resources>
